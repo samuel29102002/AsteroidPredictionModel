@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133678774134406787/a0a68e567e084a5c9dcd136b55b62cf9/artifacts
+end_time: 1681302131747
+entry_point_name: ''
+experiment_id: '133678774134406787'
+lifecycle_stage: active
+run_id: a0a68e567e084a5c9dcd136b55b62cf9
+run_name: clumsy-hawk-341
+run_uuid: a0a68e567e084a5c9dcd136b55b62cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681302125959
+status: 3
+tags: []
+user_id: samuel

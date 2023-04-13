@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/42b059fc02a843e4b7f309c331dab346/artifacts
+deleted_time: 1681326957242
+end_time: 1681326275744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 42b059fc02a843e4b7f309c331dab346
+run_name: gregarious-bat-594
+run_uuid: 42b059fc02a843e4b7f309c331dab346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326224504
+status: 3
+tags: []
+user_id: samuel

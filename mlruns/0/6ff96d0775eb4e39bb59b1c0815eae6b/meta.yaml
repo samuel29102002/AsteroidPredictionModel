@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6ff96d0775eb4e39bb59b1c0815eae6b/artifacts
+deleted_time: 1681326957266
+end_time: 1681325954190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6ff96d0775eb4e39bb59b1c0815eae6b
+run_name: classy-wolf-348
+run_uuid: 6ff96d0775eb4e39bb59b1c0815eae6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325943200
+status: 3
+tags: []
+user_id: samuel

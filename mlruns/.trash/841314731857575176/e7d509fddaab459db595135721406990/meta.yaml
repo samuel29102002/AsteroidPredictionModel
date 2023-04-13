@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841314731857575176/e7d509fddaab459db595135721406990/artifacts
+end_time: 1681201841740
+entry_point_name: ''
+experiment_id: '841314731857575176'
+lifecycle_stage: active
+run_id: e7d509fddaab459db595135721406990
+run_name: brawny-croc-81
+run_uuid: e7d509fddaab459db595135721406990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681201836163
+status: 3
+tags: []
+user_id: samuel

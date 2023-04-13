@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/a2e2d220bd244c18b6db979acbe8895a/artifacts
+end_time: 1681204289637
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: a2e2d220bd244c18b6db979acbe8895a
+run_name: efficient-fowl-86
+run_uuid: a2e2d220bd244c18b6db979acbe8895a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681204283619
+status: 3
+tags: []
+user_id: samuel

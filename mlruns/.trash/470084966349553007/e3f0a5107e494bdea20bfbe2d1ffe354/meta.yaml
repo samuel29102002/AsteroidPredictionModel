@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/470084966349553007/e3f0a5107e494bdea20bfbe2d1ffe354/artifacts
+end_time: 1681197152216
+entry_point_name: ''
+experiment_id: '470084966349553007'
+lifecycle_stage: active
+run_id: e3f0a5107e494bdea20bfbe2d1ffe354
+run_name: upbeat-carp-334
+run_uuid: e3f0a5107e494bdea20bfbe2d1ffe354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681197149155
+status: 3
+tags: []
+user_id: samuel

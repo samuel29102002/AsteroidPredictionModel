@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1cda154f0bc44c85a0541336275d14ad/artifacts
+deleted_time: 1681326957270
+end_time: 1681325927045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1cda154f0bc44c85a0541336275d14ad
+run_name: secretive-bear-676
+run_uuid: 1cda154f0bc44c85a0541336275d14ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325922760
+status: 3
+tags: []
+user_id: samuel

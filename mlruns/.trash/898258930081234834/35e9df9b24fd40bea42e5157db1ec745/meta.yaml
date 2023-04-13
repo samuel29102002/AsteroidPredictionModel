@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/898258930081234834/35e9df9b24fd40bea42e5157db1ec745/artifacts
+end_time: 1681201246544
+entry_point_name: ''
+experiment_id: '898258930081234834'
+lifecycle_stage: active
+run_id: 35e9df9b24fd40bea42e5157db1ec745
+run_name: kindly-sheep-127
+run_uuid: 35e9df9b24fd40bea42e5157db1ec745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681201242471
+status: 3
+tags: []
+user_id: samuel

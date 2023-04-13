@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/38a8caead5ab49a4a36c1ea6e3b83657/artifacts
+deleted_time: 1681326957279
+end_time: 1681323808522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 38a8caead5ab49a4a36c1ea6e3b83657
+run_name: rare-fawn-852
+run_uuid: 38a8caead5ab49a4a36c1ea6e3b83657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681323802867
+status: 3
+tags: []
+user_id: samuel

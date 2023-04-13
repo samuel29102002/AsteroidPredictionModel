@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b21c785c5e5b4456b6d0c25aec593e84/artifacts
+end_time: 1681326843867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b21c785c5e5b4456b6d0c25aec593e84
+run_name: agreeable-bird-465
+run_uuid: b21c785c5e5b4456b6d0c25aec593e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326839202
+status: 3
+tags: []
+user_id: samuel

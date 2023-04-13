@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/8491a912f5f8472190e981c321568f71/artifacts
+end_time: 1681204298579
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: 8491a912f5f8472190e981c321568f71
+run_name: stylish-shark-655
+run_uuid: 8491a912f5f8472190e981c321568f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681204289642
+status: 3
+tags: []
+user_id: samuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/470084966349553007/f8b1e3719fe9411983a4b12c3ae4130c/artifacts
+end_time: 1681197848742
+entry_point_name: ''
+experiment_id: '470084966349553007'
+lifecycle_stage: active
+run_id: f8b1e3719fe9411983a4b12c3ae4130c
+run_name: thoughtful-skink-254
+run_uuid: f8b1e3719fe9411983a4b12c3ae4130c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681197845830
+status: 3
+tags: []
+user_id: samuel

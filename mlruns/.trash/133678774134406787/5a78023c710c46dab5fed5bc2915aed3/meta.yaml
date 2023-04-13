@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133678774134406787/5a78023c710c46dab5fed5bc2915aed3/artifacts
+end_time: 1681302260819
+entry_point_name: ''
+experiment_id: '133678774134406787'
+lifecycle_stage: active
+run_id: 5a78023c710c46dab5fed5bc2915aed3
+run_name: efficient-frog-407
+run_uuid: 5a78023c710c46dab5fed5bc2915aed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681302258307
+status: 3
+tags: []
+user_id: samuel

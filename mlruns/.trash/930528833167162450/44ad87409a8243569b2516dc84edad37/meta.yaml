@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/44ad87409a8243569b2516dc84edad37/artifacts
+end_time: 1681300733476
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: 44ad87409a8243569b2516dc84edad37
+run_name: languid-slug-192
+run_uuid: 44ad87409a8243569b2516dc84edad37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300727071
+status: 3
+tags: []
+user_id: samuel

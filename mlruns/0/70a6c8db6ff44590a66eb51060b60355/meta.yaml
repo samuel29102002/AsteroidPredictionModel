@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/70a6c8db6ff44590a66eb51060b60355/artifacts
+deleted_time: 1681326957260
+end_time: 1681326005270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 70a6c8db6ff44590a66eb51060b60355
+run_name: welcoming-shoat-836
+run_uuid: 70a6c8db6ff44590a66eb51060b60355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325989787
+status: 3
+tags: []
+user_id: samuel

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fe534c52d02b46e8965cbeedd71604f6/artifacts
+deleted_time: 1681326957250
+end_time: 1681326115562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fe534c52d02b46e8965cbeedd71604f6
+run_name: adorable-skunk-870
+run_uuid: fe534c52d02b46e8965cbeedd71604f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326086681
+status: 3
+tags: []
+user_id: samuel

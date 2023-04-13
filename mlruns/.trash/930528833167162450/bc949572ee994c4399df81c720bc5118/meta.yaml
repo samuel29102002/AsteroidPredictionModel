@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/bc949572ee994c4399df81c720bc5118/artifacts
+end_time: 1681203684745
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: bc949572ee994c4399df81c720bc5118
+run_name: stately-conch-394
+run_uuid: bc949572ee994c4399df81c720bc5118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681203684675
+status: 4
+tags: []
+user_id: samuel

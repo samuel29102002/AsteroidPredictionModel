@@ -1,0 +1,12 @@
+creation_timestamp: 1681324010340
+current_stage: None
+description: ''
+last_updated_timestamp: 1681324010340
+name: RandomForestEstimator10
+run_id: c61247e5ffd64b5a8462d8eb4ae6c2d5
+run_link: ''
+source: mlflow-artifacts:/0/c61247e5ffd64b5a8462d8eb4ae6c2d5/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

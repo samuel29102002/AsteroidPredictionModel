@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8348d85999b54863a052e4d189f68eeb/artifacts
+deleted_time: 1681326957261
+end_time: 1681325989777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8348d85999b54863a052e4d189f68eeb
+run_name: beautiful-toad-933
+run_uuid: 8348d85999b54863a052e4d189f68eeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325977621
+status: 3
+tags: []
+user_id: samuel

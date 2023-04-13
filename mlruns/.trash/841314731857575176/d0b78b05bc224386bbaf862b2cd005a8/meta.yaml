@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841314731857575176/d0b78b05bc224386bbaf862b2cd005a8/artifacts
+end_time: 1681201870027
+entry_point_name: ''
+experiment_id: '841314731857575176'
+lifecycle_stage: active
+run_id: d0b78b05bc224386bbaf862b2cd005a8
+run_name: gregarious-goat-410
+run_uuid: d0b78b05bc224386bbaf862b2cd005a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681201850630
+status: 3
+tags: []
+user_id: samuel

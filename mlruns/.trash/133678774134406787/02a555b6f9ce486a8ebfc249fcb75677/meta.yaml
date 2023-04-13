@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133678774134406787/02a555b6f9ce486a8ebfc249fcb75677/artifacts
+end_time: 1681302141584
+entry_point_name: ''
+experiment_id: '133678774134406787'
+lifecycle_stage: active
+run_id: 02a555b6f9ce486a8ebfc249fcb75677
+run_name: valuable-lamb-556
+run_uuid: 02a555b6f9ce486a8ebfc249fcb75677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681302131754
+status: 3
+tags: []
+user_id: samuel

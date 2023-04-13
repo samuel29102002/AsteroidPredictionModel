@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/87636081376141dcaf0d6b3f8061682e/artifacts
+deleted_time: 1681326957241
+end_time: 1681326347255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 87636081376141dcaf0d6b3f8061682e
+run_name: clumsy-fox-442
+run_uuid: 87636081376141dcaf0d6b3f8061682e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326275754
+status: 3
+tags: []
+user_id: samuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133678774134406787/06418ee96e51404b997c9fc12e797c8a/artifacts
+end_time: 1681302825007
+entry_point_name: ''
+experiment_id: '133678774134406787'
+lifecycle_stage: active
+run_id: 06418ee96e51404b997c9fc12e797c8a
+run_name: omniscient-calf-93
+run_uuid: 06418ee96e51404b997c9fc12e797c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681302805065
+status: 3
+tags: []
+user_id: samuel

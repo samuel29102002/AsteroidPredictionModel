@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3239976a10e142aa9e912d5f151bb9f2/artifacts
+end_time: 1681326856699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3239976a10e142aa9e912d5f151bb9f2
+run_name: abundant-newt-134
+run_uuid: 3239976a10e142aa9e912d5f151bb9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326850061
+status: 3
+tags: []
+user_id: samuel

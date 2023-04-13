@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9b30aad11de449b5b6645c9881f66f6e/artifacts
+deleted_time: 1681326957281
+end_time: 1681323802861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9b30aad11de449b5b6645c9881f66f6e
+run_name: receptive-crane-611
+run_uuid: 9b30aad11de449b5b6645c9881f66f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681323798392
+status: 3
+tags: []
+user_id: samuel

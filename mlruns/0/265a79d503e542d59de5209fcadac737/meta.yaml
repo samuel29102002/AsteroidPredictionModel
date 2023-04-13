@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/265a79d503e542d59de5209fcadac737/artifacts
+deleted_time: 1681326957257
+end_time: 1681326044221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 265a79d503e542d59de5209fcadac737
+run_name: polite-whale-590
+run_uuid: 265a79d503e542d59de5209fcadac737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326024097
+status: 3
+tags: []
+user_id: samuel

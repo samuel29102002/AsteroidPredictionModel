@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/eeb8d9fb8f034189b226e6c056b94cee/artifacts
+deleted_time: 1681326957263
+end_time: 1681325977611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eeb8d9fb8f034189b226e6c056b94cee
+run_name: dapper-stag-685
+run_uuid: eeb8d9fb8f034189b226e6c056b94cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325965998
+status: 3
+tags: []
+user_id: samuel

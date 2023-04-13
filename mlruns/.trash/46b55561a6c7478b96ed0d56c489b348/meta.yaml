@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/46b55561a6c7478b96ed0d56c489b348/artifacts
+end_time: 1681307069044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46b55561a6c7478b96ed0d56c489b348
+run_name: adaptable-donkey-14
+run_uuid: 46b55561a6c7478b96ed0d56c489b348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681307036068
+status: 3
+tags: []
+user_id: samuel

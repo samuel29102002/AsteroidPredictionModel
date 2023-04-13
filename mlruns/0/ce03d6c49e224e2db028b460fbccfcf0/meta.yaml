@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ce03d6c49e224e2db028b460fbccfcf0/artifacts
+deleted_time: 1681326957267
+end_time: 1681325943191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ce03d6c49e224e2db028b460fbccfcf0
+run_name: honorable-mole-991
+run_uuid: ce03d6c49e224e2db028b460fbccfcf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325934299
+status: 3
+tags: []
+user_id: samuel

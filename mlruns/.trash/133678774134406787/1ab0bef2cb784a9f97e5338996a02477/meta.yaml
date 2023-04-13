@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133678774134406787/1ab0bef2cb784a9f97e5338996a02477/artifacts
+end_time: 1681302805059
+entry_point_name: ''
+experiment_id: '133678774134406787'
+lifecycle_stage: active
+run_id: 1ab0bef2cb784a9f97e5338996a02477
+run_name: upset-fish-308
+run_uuid: 1ab0bef2cb784a9f97e5338996a02477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681302796220
+status: 3
+tags: []
+user_id: samuel

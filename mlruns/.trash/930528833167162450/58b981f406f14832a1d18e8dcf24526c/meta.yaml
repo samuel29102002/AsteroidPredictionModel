@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/58b981f406f14832a1d18e8dcf24526c/artifacts
+end_time: 1681204279596
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: 58b981f406f14832a1d18e8dcf24526c
+run_name: puzzled-fox-359
+run_uuid: 58b981f406f14832a1d18e8dcf24526c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681204276077
+status: 3
+tags: []
+user_id: samuel
