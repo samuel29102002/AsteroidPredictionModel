@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/85ea6a26f4aa4d7b8eeb1826bbfe09f5/artifacts
+deleted_time: 1681326957274
+end_time: 1681325914257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 85ea6a26f4aa4d7b8eeb1826bbfe09f5
+run_name: delicate-ox-431
+run_uuid: 85ea6a26f4aa4d7b8eeb1826bbfe09f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325910445
+status: 3
+tags: []
+user_id: samuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841314731857575176/a6f6f66232ee48c087bd184049e9dba3/artifacts
+end_time: 1681201875996
+entry_point_name: ''
+experiment_id: '841314731857575176'
+lifecycle_stage: active
+run_id: a6f6f66232ee48c087bd184049e9dba3
+run_name: popular-dolphin-405
+run_uuid: a6f6f66232ee48c087bd184049e9dba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681201870089
+status: 3
+tags: []
+user_id: samuel

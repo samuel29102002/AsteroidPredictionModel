@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d7faa3dcb8c14a4abcddbaeaeba1b7bf/artifacts
+deleted_time: 1681326957251
+end_time: 1681326086674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d7faa3dcb8c14a4abcddbaeaeba1b7bf
+run_name: spiffy-rat-103
+run_uuid: d7faa3dcb8c14a4abcddbaeaeba1b7bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326064577
+status: 3
+tags: []
+user_id: samuel

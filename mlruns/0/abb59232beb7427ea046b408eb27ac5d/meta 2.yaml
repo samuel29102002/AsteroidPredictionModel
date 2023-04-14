@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/abb59232beb7427ea046b408eb27ac5d/artifacts
+end_time: 1681328627357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abb59232beb7427ea046b408eb27ac5d
+run_name: abundant-goose-372
+run_uuid: abb59232beb7427ea046b408eb27ac5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681328621276
+status: 3
+tags: []
+user_id: samuel

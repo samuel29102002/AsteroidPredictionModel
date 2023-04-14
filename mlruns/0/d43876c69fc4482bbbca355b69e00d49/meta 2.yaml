@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d43876c69fc4482bbbca355b69e00d49/artifacts
+deleted_time: 1681326957283
+end_time: 1681323798386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d43876c69fc4482bbbca355b69e00d49
+run_name: colorful-fish-894
+run_uuid: d43876c69fc4482bbbca355b69e00d49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681323794356
+status: 3
+tags: []
+user_id: samuel

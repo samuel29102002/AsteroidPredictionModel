@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d15b4368258b4259848aa3a2c994246d/artifacts
+deleted_time: 1681326957276
+end_time: 1681323843253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d15b4368258b4259848aa3a2c994246d
+run_name: unequaled-worm-963
+run_uuid: d15b4368258b4259848aa3a2c994246d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681323824371
+status: 3
+tags: []
+user_id: samuel

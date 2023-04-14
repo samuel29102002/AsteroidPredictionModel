@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/869fce626a164285aa2e618296000dcf/artifacts
+end_time: 1681328640593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 869fce626a164285aa2e618296000dcf
+run_name: intrigued-bat-582
+run_uuid: 869fce626a164285aa2e618296000dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681328633964
+status: 3
+tags: []
+user_id: samuel

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/81e319d1220448ca810e5aff8ec25c69/artifacts
+deleted_time: 1681326957252
+end_time: 1681326150788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 81e319d1220448ca810e5aff8ec25c69
+run_name: burly-stoat-735
+run_uuid: 81e319d1220448ca810e5aff8ec25c69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326115568
+status: 3
+tags: []
+user_id: samuel

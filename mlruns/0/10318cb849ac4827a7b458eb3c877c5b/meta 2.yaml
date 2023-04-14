@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/10318cb849ac4827a7b458eb3c877c5b/artifacts
+end_time: 1681326863691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10318cb849ac4827a7b458eb3c877c5b
+run_name: exultant-bug-238
+run_uuid: 10318cb849ac4827a7b458eb3c877c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326856709
+status: 3
+tags: []
+user_id: samuel

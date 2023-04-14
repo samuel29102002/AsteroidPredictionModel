@@ -1,0 +1,12 @@
+creation_timestamp: 1681309546646
+current_stage: None
+description: ''
+last_updated_timestamp: 1681309546646
+name: rf_50
+run_id: 1f77c5ea3a6345f0b2183bb63efbb9d6
+run_link: ''
+source: mlflow-artifacts:/0/1f77c5ea3a6345f0b2183bb63efbb9d6/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/898258930081234834/edc5164acafb4beeabd31a15fd52c6a1/artifacts
+end_time: 1681200629472
+entry_point_name: ''
+experiment_id: '898258930081234834'
+lifecycle_stage: active
+run_id: edc5164acafb4beeabd31a15fd52c6a1
+run_name: skillful-quail-524
+run_uuid: edc5164acafb4beeabd31a15fd52c6a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681200625872
+status: 3
+tags: []
+user_id: samuel

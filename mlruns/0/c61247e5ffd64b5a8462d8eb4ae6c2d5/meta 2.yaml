@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c61247e5ffd64b5a8462d8eb4ae6c2d5/artifacts
+deleted_time: 1681326957284
+end_time: 1681323790987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c61247e5ffd64b5a8462d8eb4ae6c2d5
+run_name: indecisive-hound-596
+run_uuid: c61247e5ffd64b5a8462d8eb4ae6c2d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681323787320
+status: 3
+tags: []
+user_id: samuel

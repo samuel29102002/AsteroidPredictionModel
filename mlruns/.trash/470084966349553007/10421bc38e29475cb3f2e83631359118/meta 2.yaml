@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/470084966349553007/10421bc38e29475cb3f2e83631359118/artifacts
+end_time: 1681197840793
+entry_point_name: ''
+experiment_id: '470084966349553007'
+lifecycle_stage: active
+run_id: 10421bc38e29475cb3f2e83631359118
+run_name: unequaled-koi-15
+run_uuid: 10421bc38e29475cb3f2e83631359118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681197837604
+status: 3
+tags: []
+user_id: samuel

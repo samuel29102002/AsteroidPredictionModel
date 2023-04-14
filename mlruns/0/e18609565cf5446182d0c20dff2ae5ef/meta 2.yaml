@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e18609565cf5446182d0c20dff2ae5ef/artifacts
+end_time: 1681328601847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e18609565cf5446182d0c20dff2ae5ef
+run_name: capable-pug-720
+run_uuid: e18609565cf5446182d0c20dff2ae5ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681328598319
+status: 3
+tags: []
+user_id: samuel

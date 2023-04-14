@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841314731857575176/292716cce5cd4f39a0e5666743b0b099/artifacts
+end_time: 1681201836114
+entry_point_name: ''
+experiment_id: '841314731857575176'
+lifecycle_stage: active
+run_id: 292716cce5cd4f39a0e5666743b0b099
+run_name: beautiful-carp-363
+run_uuid: 292716cce5cd4f39a0e5666743b0b099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681201832107
+status: 3
+tags: []
+user_id: samuel

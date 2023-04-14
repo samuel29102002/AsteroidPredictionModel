@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2b2ae39725e84eb08616f1871aef729b/artifacts
+deleted_time: 1681326957272
+end_time: 1681325922742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2b2ae39725e84eb08616f1871aef729b
+run_name: blushing-sloth-611
+run_uuid: 2b2ae39725e84eb08616f1871aef729b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325918435
+status: 3
+tags: []
+user_id: samuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/83f319bcd4274ee0a33db1a2277e1d5d/artifacts
+end_time: 1681326896047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83f319bcd4274ee0a33db1a2277e1d5d
+run_name: bouncy-shrike-608
+run_uuid: 83f319bcd4274ee0a33db1a2277e1d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326884749
+status: 3
+tags: []
+user_id: samuel

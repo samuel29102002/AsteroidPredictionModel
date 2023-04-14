@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/71dafef22dca4fe88d1167c6b93ff613/artifacts
+deleted_time: 1681326957258
+end_time: 1681326024091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 71dafef22dca4fe88d1167c6b93ff613
+run_name: respected-shad-953
+run_uuid: 71dafef22dca4fe88d1167c6b93ff613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326005279
+status: 3
+tags: []
+user_id: samuel

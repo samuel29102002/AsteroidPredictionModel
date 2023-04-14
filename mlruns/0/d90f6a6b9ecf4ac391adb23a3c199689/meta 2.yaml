@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d90f6a6b9ecf4ac391adb23a3c199689/artifacts
+end_time: 1681326834606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d90f6a6b9ecf4ac391adb23a3c199689
+run_name: dashing-boar-783
+run_uuid: d90f6a6b9ecf4ac391adb23a3c199689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326830272
+status: 3
+tags: []
+user_id: samuel

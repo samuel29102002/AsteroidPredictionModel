@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f0923c07cffb4d058f608f0033543a8f/artifacts
+end_time: 1681328607844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0923c07cffb4d058f608f0033543a8f
+run_name: sneaky-croc-667
+run_uuid: f0923c07cffb4d058f608f0033543a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681328604937
+status: 3
+tags: []
+user_id: samuel

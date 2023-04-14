@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/f46549acfd8b4caab997faf60958892d/artifacts
+end_time: 1681203675744
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: f46549acfd8b4caab997faf60958892d
+run_name: enthused-hog-437
+run_uuid: f46549acfd8b4caab997faf60958892d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681203675673
+status: 4
+tags: []
+user_id: samuel

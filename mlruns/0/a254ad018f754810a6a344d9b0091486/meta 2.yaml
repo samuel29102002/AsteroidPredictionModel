@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a254ad018f754810a6a344d9b0091486/artifacts
+deleted_time: 1681326957264
+end_time: 1681325965989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a254ad018f754810a6a344d9b0091486
+run_name: chill-wasp-448
+run_uuid: a254ad018f754810a6a344d9b0091486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325954200
+status: 3
+tags: []
+user_id: samuel

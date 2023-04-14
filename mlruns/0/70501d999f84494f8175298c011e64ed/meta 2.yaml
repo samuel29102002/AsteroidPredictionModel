@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/70501d999f84494f8175298c011e64ed/artifacts
+deleted_time: 1681326957255
+end_time: 1681326064570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 70501d999f84494f8175298c011e64ed
+run_name: receptive-bat-149
+run_uuid: 70501d999f84494f8175298c011e64ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326044227
+status: 3
+tags: []
+user_id: samuel

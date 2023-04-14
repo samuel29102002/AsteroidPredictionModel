@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f591b4ff3f964b03b3d71aa422b56382/artifacts
+end_time: 1681320035523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f591b4ff3f964b03b3d71aa422b56382
+run_name: capable-yak-17
+run_uuid: f591b4ff3f964b03b3d71aa422b56382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681308154800
+status: 4
+tags: []
+user_id: samuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aa29f09484d340b2a493742e7b491b5d/artifacts
+end_time: 1681326839191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa29f09484d340b2a493742e7b491b5d
+run_name: puzzled-penguin-473
+run_uuid: aa29f09484d340b2a493742e7b491b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326834613
+status: 3
+tags: []
+user_id: samuel

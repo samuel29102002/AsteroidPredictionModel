@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/470084966349553007/bb5179984c684aa6941f37281eeccc59/artifacts
+end_time: 1681197722994
+entry_point_name: ''
+experiment_id: '470084966349553007'
+lifecycle_stage: active
+run_id: bb5179984c684aa6941f37281eeccc59
+run_name: indecisive-whale-783
+run_uuid: bb5179984c684aa6941f37281eeccc59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681197720129
+status: 3
+tags: []
+user_id: samuel

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/29636515e4cc4af1bec13114bbc124ad/artifacts
+deleted_time: 1681326957243
+end_time: 1681326224499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 29636515e4cc4af1bec13114bbc124ad
+run_name: intelligent-slug-19
+run_uuid: 29636515e4cc4af1bec13114bbc124ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326187392
+status: 3
+tags: []
+user_id: samuel

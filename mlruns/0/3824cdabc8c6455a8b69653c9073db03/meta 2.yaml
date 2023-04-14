@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3824cdabc8c6455a8b69653c9073db03/artifacts
+deleted_time: 1681326957240
+end_time: 1681326407012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3824cdabc8c6455a8b69653c9073db03
+run_name: gentle-slug-680
+run_uuid: 3824cdabc8c6455a8b69653c9073db03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681326347262
+status: 4
+tags: []
+user_id: samuel

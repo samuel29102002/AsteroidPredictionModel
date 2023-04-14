@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/47af8e6a0418472980338b5b6753e622/artifacts
+end_time: 1681299680012
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: 47af8e6a0418472980338b5b6753e622
+run_name: stylish-swan-579
+run_uuid: 47af8e6a0418472980338b5b6753e622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681299675831
+status: 3
+tags: []
+user_id: samuel

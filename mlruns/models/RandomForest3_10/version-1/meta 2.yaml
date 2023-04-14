@@ -1,0 +1,12 @@
+creation_timestamp: 1681327077759
+current_stage: None
+description: ''
+last_updated_timestamp: 1681327077759
+name: RandomForest3_10
+run_id: f559613a6c2547aab24df8c35cc7be53
+run_link: ''
+source: mlflow-artifacts:/0/f559613a6c2547aab24df8c35cc7be53/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

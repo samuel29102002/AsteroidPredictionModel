@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/898258930081234834/570f869cc0dd486d9ee66392700716e1/artifacts
+end_time: 1681198536682
+entry_point_name: ''
+experiment_id: '898258930081234834'
+lifecycle_stage: active
+run_id: 570f869cc0dd486d9ee66392700716e1
+run_name: honorable-elk-101
+run_uuid: 570f869cc0dd486d9ee66392700716e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681198532359
+status: 3
+tags: []
+user_id: samuel

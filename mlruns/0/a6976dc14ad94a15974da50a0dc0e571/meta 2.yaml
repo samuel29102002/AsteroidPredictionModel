@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a6976dc14ad94a15974da50a0dc0e571/artifacts
+deleted_time: 1681326957275
+end_time: 1681325910432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a6976dc14ad94a15974da50a0dc0e571
+run_name: unruly-donkey-406
+run_uuid: a6976dc14ad94a15974da50a0dc0e571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681325906124
+status: 3
+tags: []
+user_id: samuel

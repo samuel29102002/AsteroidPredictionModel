@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/003ae2bf6e93454daac15b5b6a341c85/artifacts
+end_time: 1681328621270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 003ae2bf6e93454daac15b5b6a341c85
+run_name: adaptable-hog-880
+run_uuid: 003ae2bf6e93454daac15b5b6a341c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681328616756
+status: 3
+tags: []
+user_id: samuel

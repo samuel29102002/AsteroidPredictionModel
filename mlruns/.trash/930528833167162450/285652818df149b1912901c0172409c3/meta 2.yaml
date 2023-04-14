@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/285652818df149b1912901c0172409c3/artifacts
+end_time: 1681300762080
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: 285652818df149b1912901c0172409c3
+run_name: brawny-ox-905
+run_uuid: 285652818df149b1912901c0172409c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300743168
+status: 3
+tags: []
+user_id: samuel

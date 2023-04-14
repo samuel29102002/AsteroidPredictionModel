@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/930528833167162450/1aef782d30c545a6a57aaa9d00507122/artifacts
+end_time: 1681203643278
+entry_point_name: ''
+experiment_id: '930528833167162450'
+lifecycle_stage: active
+run_id: 1aef782d30c545a6a57aaa9d00507122
+run_name: painted-seal-647
+run_uuid: 1aef782d30c545a6a57aaa9d00507122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681203643068
+status: 4
+tags: []
+user_id: samuel

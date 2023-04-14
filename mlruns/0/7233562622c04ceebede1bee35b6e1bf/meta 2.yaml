@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7233562622c04ceebede1bee35b6e1bf/artifacts
+end_time: 1681328612258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7233562622c04ceebede1bee35b6e1bf
+run_name: chill-gull-994
+run_uuid: 7233562622c04ceebede1bee35b6e1bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681328607850
+status: 3
+tags: []
+user_id: samuel
