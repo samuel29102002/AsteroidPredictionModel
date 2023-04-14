@@ -1,34 +1,4 @@
----
-title: "Report Asteroid Prediction"
-author: "Samuel Heinrich"
-date: "2023-28-04"
-fontsize: 11pt
-output: 
-  pdf_document:
-    toc: yes
-    fig_width: 5
-    fig_height: 5
-    latex_engine: xelatex
-    citation_package: natbib
-bibliography: references.bib
-csl: apa.csl
-header-includes:
-  - \usepackage{fancyhdr}
-  - \pagestyle{fancy}
-  - \fancyhead[CO,CE]{AML}
-  - \fancyfoot[CO,CE]{Samuel Heinrich}
-  - \fancyfoot[LE,RO]{\thepage}
-  - \usepackage{fontspec}
-editor_options:
-  chunk_output_type: console
-  markdown:
-    wrap: sentence
----
 
-\fontspec{Arial} 
-
-
-\newpage
 
 # Datensatz
 Der Datensatz, der für dieses Machine-Learning-Projekt verwendet wird, ist auf Asteroiden fokussiert – ein interessantes Thema für die Anwendung von Klassifizierung und Regression im Rahmen von Machine Learning. Die Wahl dieses Datensatzes wurde aufgrund der ständig wachsenden Bedeutung von Machine Learning in der Astronomie und Astrophysik getroffen, insbesondere bei der Erforschung und Klassifizierung von Asteroiden.[@sakhawat18]
