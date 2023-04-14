@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/06294ebfe53d4e08bb427b7ea8551a90/artifacts
+end_time: 1681471081058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06294ebfe53d4e08bb427b7ea8551a90
+run_name: masked-steed-191
+run_uuid: 06294ebfe53d4e08bb427b7ea8551a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681470865736
+status: 3
+tags: []
+user_id: samuel

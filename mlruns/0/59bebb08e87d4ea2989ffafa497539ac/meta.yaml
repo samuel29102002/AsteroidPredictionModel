@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/59bebb08e87d4ea2989ffafa497539ac/artifacts
+end_time: 1681464259610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59bebb08e87d4ea2989ffafa497539ac
+run_name: clean-mare-619
+run_uuid: 59bebb08e87d4ea2989ffafa497539ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681464254042
+status: 3
+tags: []
+user_id: samuel

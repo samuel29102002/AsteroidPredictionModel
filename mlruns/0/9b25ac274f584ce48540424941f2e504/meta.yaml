@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9b25ac274f584ce48540424941f2e504/artifacts
+end_time: 1681470182713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b25ac274f584ce48540424941f2e504
+run_name: traveling-wolf-636
+run_uuid: 9b25ac274f584ce48540424941f2e504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681470171572
+status: 3
+tags: []
+user_id: samuel

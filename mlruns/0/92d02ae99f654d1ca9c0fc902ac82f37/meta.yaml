@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/92d02ae99f654d1ca9c0fc902ac82f37/artifacts
+end_time: 1681464273504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92d02ae99f654d1ca9c0fc902ac82f37
+run_name: salty-sow-94
+run_uuid: 92d02ae99f654d1ca9c0fc902ac82f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681464265139
+status: 3
+tags: []
+user_id: samuel

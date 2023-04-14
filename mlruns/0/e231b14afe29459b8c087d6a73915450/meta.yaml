@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e231b14afe29459b8c087d6a73915450/artifacts
+end_time: 1681464254018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e231b14afe29459b8c087d6a73915450
+run_name: stately-hen-231
+run_uuid: e231b14afe29459b8c087d6a73915450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681464248609
+status: 3
+tags: []
+user_id: samuel

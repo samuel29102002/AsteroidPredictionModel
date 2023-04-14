@@ -1,0 +1,12 @@
+creation_timestamp: 1681472902109
+current_stage: None
+description: ''
+last_updated_timestamp: 1681472902109
+name: RandomForest_10_50
+run_id: c846938e8b874796aff72d34cc106cbf
+run_link: ''
+source: mlflow-artifacts:/0/c846938e8b874796aff72d34cc106cbf/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

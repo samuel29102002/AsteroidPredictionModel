@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2bf8d4f3711a4897a84476fce4d584f4/artifacts
+end_time: 1681470571491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf8d4f3711a4897a84476fce4d584f4
+run_name: upbeat-skunk-782
+run_uuid: 2bf8d4f3711a4897a84476fce4d584f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681470460173
+status: 3
+tags: []
+user_id: samuel
